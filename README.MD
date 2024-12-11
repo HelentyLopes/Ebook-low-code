@@ -40,7 +40,8 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | crie um titulo de um ebook sobre o tema Low-code, o ebook é do nicho de tecnologia e subnicho aprendizado da IA, o titulo deve ser curto e epico, e tenha uma tematica da serie the bigbang teoria, me liste 5 variacoes de titulo                                                  |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| conteúdo | aça um texto para ebook , com foco em Low code, listando os passos que devem ser seguidos para se tornar um especialista
+{REGRAS} Explique sempre de uma maneira simples, Deixe o texto enxuto, Sempre traga exemplos de quais IA utilizar em contextos reais, sempre deixe um título sugestivo por tópico |
 
 
 ## ✨ Features
